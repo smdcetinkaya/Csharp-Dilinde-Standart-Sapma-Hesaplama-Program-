@@ -1,0 +1,47 @@
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.exe
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.deps.json
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.runtimeconfig.json
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.runtimeconfig.dev.json
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.dll
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.pdb
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.csproj.AssemblyReference.cache
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.AssemblyInfoInputs.cache
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.AssemblyInfo.cs
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.csproj.CoreCompileInputs.cache
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.dll
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\refint\SSiterasyon.dll
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.pdb
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.genruntimeconfig.cache
+C:\Users\samed\Desktop\SSiterasyon\SSiterasyon\obj\Debug\net5.0\ref\SSiterasyon.dll
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.exe
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.deps.json
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.runtimeconfig.json
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.runtimeconfig.dev.json
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.dll
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.pdb
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.csproj.AssemblyReference.cache
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.AssemblyInfoInputs.cache
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.AssemblyInfo.cs
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.csproj.CoreCompileInputs.cache
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.dll
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\refint\SSiterasyon.dll
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.pdb
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.genruntimeconfig.cache
+E:\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\ref\SSiterasyon.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.exe
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.deps.json
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.runtimeconfig.json
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.runtimeconfig.dev.json
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\bin\Debug\net5.0\SSiterasyon.pdb
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.AssemblyInfoInputs.cache
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.AssemblyInfo.cs
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.csproj.CoreCompileInputs.cache
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\refint\SSiterasyon.dll
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.pdb
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\SSiterasyon.genruntimeconfig.cache
+C:\Users\samed\Documents\2.Sınıf\Veri Yapıları\SSiterasyon\SSiterasyon\obj\Debug\net5.0\ref\SSiterasyon.dll
